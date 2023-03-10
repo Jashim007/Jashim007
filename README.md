@@ -1,12 +1,10 @@
-
 <!---
-sumitKcs/sumitKcs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jashim007/Jashim007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 
 <div id="header" align="center">
   <h3>Hey 👋...This is Jashim</h3>
@@ -15,20 +13,18 @@ You can click the Preview link to take a look at your changes.
       <h3>Connect with me 👇</h3>
   </div>
   <div id="badges" align="center" >
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/sumitssr)">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/md-jashim-mondal-506719175/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
- 
-  <a href="https://twitter.com/risesumit">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
+
 </div>
 <br/>
 <br/>
 
-# Tech Stack: 
-![image](https://camo.githubusercontent.com/b7e290d2aeff9829bba45e897265ceebd34b25f6f7efba4b08e1b23cfe0815e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465
-)
+# Tech Stack:
+
+![image](https://camo.githubusercontent.com/b7e290d2aeff9829bba45e897265ceebd34b25f6f7efba4b08e1b23cfe0815e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465)
 ![image](https://user-images.githubusercontent.com/60169356/209784179-abec80dd-6b9a-452e-84f6-7b26e4694fe7.png)
 ![image](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![image](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
@@ -58,21 +54,20 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-
 <div id="header"> 
  
   <h1>  <img style="height:2rem" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png" alt="stats"></img>Github Stats </h1>
 </div>
 
-![sumit's github stats](https://github-readme-stats.vercel.app/api?username=sumitKcs)
+![sumit's github stats](https://github-readme-stats.vercel.app/api?username=Jashim007)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitKcs)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jashim007)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitKcs)](https://github.com/sumitKcs/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jashim007)](https://github.com/Jashim007/github-readme-stats)
+
 <div id="header"> 
  
   <h1>  <img style="height:2rem" src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="stats"></img>Github Trophies </h1>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumitKcs)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jashim007)](https://github.com/ryo-ma/github-profile-trophy)
